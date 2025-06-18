@@ -1,0 +1,35 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code / Visual Studio
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs and debug files
+*.log
+
+# dotnet-generated files
+*.dbmdl
+*.bak
+*.pdb
+*.cache
+*.config
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Environment files
+.env
+
+# Others
+*.DS_Store
+Thumbs.db
