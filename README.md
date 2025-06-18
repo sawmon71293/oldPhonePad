@@ -95,7 +95,6 @@ Installations:
 👤 **Saw Mon Han**
 
 - GitHub: [@sawmon](https://github.com/sawmon71293/)
-- Twitter: [@Twitterhandle](https://twitter.com/sawmon34268255)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/saw-mon-han/)
 
 ## 🔭 Future Features <a name="features"></a>
