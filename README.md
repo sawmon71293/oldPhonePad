@@ -77,9 +77,10 @@ Clone this repository to your desired folder:
 Installations:
 
 - [.NET SDK](https://dotnet.microsoft.com/en-us/download)
-- dotnet add package xunit
-- dotnet add package xunit.runner.visualstudio
-- dotnet add package Microsoft.NET.Test.Sdk
+- dotnet add package MSTest.TestFramework --version 3.9.3
+- dotnet add package MSTest.TestAdapter --version 3.9.3
+- dotnet add package MSTest.Analyzers --version 3.9.3
+- dotnet add package Microsoft.NET.Test.Sdk --version 17.9.0
 
 ### Usage
 
