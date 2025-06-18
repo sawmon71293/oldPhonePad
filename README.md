@@ -60,8 +60,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Code editor like Visual Studio Code
-- Latest .NET SDK
+- Code editor like Visual Studio or Visual Studio Code
+- Latest [.NET SDK](https://dotnet.microsoft.com/en-us/download)
 
 ### Setup
 
@@ -76,7 +76,7 @@ Clone this repository to your desired folder:
 
 Installations:
 
-- .Net SDK
+- [.NET SDK](https://dotnet.microsoft.com/en-us/download)
 - dotnet add package xunit
 - dotnet add package xunit.runner.visualstudio
 - dotnet add package Microsoft.NET.Test.Sdk
@@ -87,7 +87,6 @@ Installations:
 
 ### Run Tests <a name="runtests"></a>
 - dotnet test
-
 
 <!-- AUTHORS -->
 
