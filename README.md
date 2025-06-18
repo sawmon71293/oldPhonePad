@@ -45,7 +45,7 @@
 
 This is to practice C# and write proper test cases.
 
-- to show the characters according to the numbers in pad phone.
+- To show the characters corresponding to the numbers entered on a phone keypad.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
