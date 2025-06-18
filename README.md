@@ -45,8 +45,7 @@
 
 This is to practice C# and write proper test cases.
 
-- **Components**
-- **Events**
+- to show the characters according to the numbers in pad phone.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -77,7 +76,7 @@ Clone this repository to your desired folder:
 
 Installations:
 
--.Net SDK
+- .Net SDK
 - dotnet add package xunit
 - dotnet add package xunit.runner.visualstudio
 - dotnet add package Microsoft.NET.Test.Sdk
