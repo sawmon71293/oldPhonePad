@@ -1,6 +1,4 @@
-
 <a name="readme-top"></a>
-
 
 # 📗 Table of Contents
 
@@ -17,7 +15,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run Tests](#runtests)
-  
+
 - [👥 Author](#authors)
 - [🔭 Future Features](#features)
 - [🤝 Contribution](#contributing)
@@ -29,9 +27,7 @@
 
 # 📖 Old Phone Pad <a name="about-project"></a>
 
-
-**Old Phone Pad** s a C# program that converts number inputs into characters like on an old mobile keypad. Press # to submit the text and * to delete the last character.
-
+**Old Phone Pad** s a C# program that converts number inputs into characters like on an old mobile keypad. Press # to submit the text and \* to delete the last character.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,7 +42,6 @@
 This is to practice C# and write proper test cases.
 
 - To show the characters corresponding to the numbers entered on a phone keypad.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,15 +72,17 @@ Clone this repository to your desired folder:
 Installations:
 
 - [.NET SDK](https://dotnet.microsoft.com/en-us/download)
-- dotnet add package xunit
-- dotnet add package xunit.runner.visualstudio
-- dotnet add package Microsoft.NET.Test.Sdk
+- dotnet add package MSTest.TestFramework --version 3.9.3
+- dotnet add package MSTest.TestAdapter --version 3.9.3
+- dotnet add package MSTest.Analyzers --version 3.9.3
+- dotnet add package Microsoft.NET.Test.Sdk --version 17.9.0
 
 ### Usage
 
 - dotnet run
 
 ### Run Tests <a name="runtests"></a>
+
 - dotnet test
 
 <!-- AUTHORS -->
@@ -134,4 +131,3 @@ I would like to thank Microverse for the opportunity to dream big.
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
