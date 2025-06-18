@@ -30,7 +30,7 @@
 # 📖 Old Phone Pad <a name="about-project"></a>
 
 
-**Old Phone Pad**  is a program using C# for putting in the numbers will show as characters and need to press # for sending the numbers in. * would be erasing the input. 
+**Old Phone Pad** s a C# program that converts number inputs into characters like on an old mobile keypad. Press # to submit the text and * to delete the last character.
 
 
 ## 🛠 Built With <a name="built-with"></a>
