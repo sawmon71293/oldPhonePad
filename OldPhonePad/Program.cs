@@ -40,11 +40,9 @@ namespace OldPhonePad
                 switch (c)
                 {
                     case '#':
-                        // End of input
                         goto End;
 
                     case '*':
-                        // Backspace
                         if (result.Length > 0)
                             result.Remove(result.Length - 1, 1);
                         lastDigit = '\0';
@@ -52,7 +50,6 @@ namespace OldPhonePad
                         break;
 
                     case ' ':
-                        // Pause (finalize previous letter)
                         if (keypad.ContainsKey(lastDigit))
                         {
                             string letters = keypad[lastDigit];
